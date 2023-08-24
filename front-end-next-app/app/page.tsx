@@ -13,12 +13,12 @@ export default function Home() {
     <main>
       <Banner />
       <Companies />
-      <Work />
-      <Table />
-      <Features />
-      <Simple />
-      <Trade />
-      <Faq />
+      {/* {<Work />} */}
+      {/* { <Table />} */}
+      {/* {<Features />} */}
+      {/* {<Simple />} */}
+      {/* {<Trade />} */}
+      {/* <Faq /> */}
     </main>
   )
 }
